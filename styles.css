@@ -1,0 +1,79 @@
+body{
+    background:#242d34;
+}
+
+.main{
+    background: black;
+    color:white;
+    margin: 50px auto;
+    width: 250px;
+    border:1px solid black;
+    border-radius:20px;
+    padding:10px 100px;
+    
+    
+    
+
+} 
+
+.x-img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+}
+
+.google-btn{
+    display:block;
+    background:white;
+    border: 1px solid white;
+    border-radius:24px;
+    padding:5px 30px;
+    width:100%;
+}
+
+.apple-btn{
+    display:block;
+    background:white;
+    border: 1px solid white;
+    border-radius:24px;
+    padding:5px 30px;
+    width:100%;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+
+.userid-input{
+    background:black;
+    width:100%;
+    line-height: 30px;
+    margin-top:10px;
+}
+
+.nxt-btn{
+    display:block;
+    background:white;
+    border: 1px solid white;
+    border-radius:24px;
+    padding:5px 30px;
+    width:100%;
+    font-weight: bold;
+    margin-top:20px;
+}
+
+.forgot-btn{
+    display:block;
+    background:black;
+    border: 1px solid white;
+    border-radius:24px;
+    padding:5px 30px;
+    width:100%;
+    font-weight: bold;
+    margin-top:20px;
+    margin-bottom:30px;
+    color:white;
+}
+
+.line-p{
+    color:grey;
+}
